@@ -1,6 +1,5 @@
 <?php
-
-namespace Ahmyi\DiscordLog\Engine;
+namespace Ahmyi\DiscordLog\Log\Engine;
 
 use Cake\Log\Engine\BaseLog;
 use Cake\Http\Client;
